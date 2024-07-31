@@ -1,3 +1,4 @@
 1-> Query that provides average rating for all RPG-tyle games.
 2-> Query that lists all the games that were released between 01.01.2000 and 01.01.2010.
 3-> Query that lists all the games that have more than 3000 revievs and thier rating is equal or greater than 4.0.
+4-> Query that lists all the games that are RPGs have more than 1000 revievs and the rating is above 3.5.
